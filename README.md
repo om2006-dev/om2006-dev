@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineering Student @ NIE Mysore</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+Dev+with+Java+%2B+Spring+Boot;API+Testing+with+Postman;Always+building+something" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Backend+with+Java+%2B+Spring+Boot;Always+building+something" alt="Typing SVG" />
 </p>
 
 - 🔭 Currently studying **AI/ML** at The National Institute of Engineering, Mysore
